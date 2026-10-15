@@ -32,6 +32,5 @@ public class Homework4 {
         int a = sc.nextInt();
         int b = sc.nextInt();
         System.out.println("두 수의 최대공약수는 " + gcd(a, b) + "입니다.");
-        // 반복문 버전: System.out.println("두 수의 최대공약수는 " + gcdLoop(a, b) + "입니다.");
     }
 }
